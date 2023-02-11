@@ -1,0 +1,1 @@
+this is for uname command in ubuntu
